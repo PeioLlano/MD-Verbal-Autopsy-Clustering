@@ -17,4 +17,4 @@ Ademas tenemos una serie de carpetas en las que hemos almacenado archivos tanto 
 
 ### _Explicacion de modularidad_
 
-El codigo esta pensado para ser ejecutado en orden. Ahora bien como previamente ya lo hemos ejecutado nosotros hay ciertos puntos de donde se va a poder empezar a ejecutar si haber ejecutado lo anterior.
+El codigo esta pensado para ser ejecutado en orden. Ahora bien como previamente ya lo hemos ejecutado nosotros hay ciertos puntos de donde se va a poder empezar a ejecutar sin haber ejecutado lo anterior.
